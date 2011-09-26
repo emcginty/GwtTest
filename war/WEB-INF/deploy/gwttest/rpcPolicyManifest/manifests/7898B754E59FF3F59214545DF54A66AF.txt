@@ -1,0 +1,2 @@
+serviceClass: com.envivid.GwtTest.client.GreetingService
+path: 9881974C81D42F0DF1699B49E0726F02.gwt.rpc
